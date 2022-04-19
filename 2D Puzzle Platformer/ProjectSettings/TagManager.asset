@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GroundLogic
+  - Ground
+  - laser
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Player
+  - Post Processing
+  - laser
+  - start
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3059124137
+    locked: 0
+  - name: Midground
+    uniqueID: 3457366053
+    locked: 0
+  - name: Foreground
+    uniqueID: 210368227
+    locked: 0
+  - name: Trail
+    uniqueID: 1966416521
+    locked: 0
+  - name: Particles
+    uniqueID: 1886542487
+    locked: 0
+  - name: Player
+    uniqueID: 3060627517
+    locked: 0
